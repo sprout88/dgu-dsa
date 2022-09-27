@@ -17,5 +17,7 @@ public class DNode<E> {
 	public void setItem(E newItem) {item=newItem;}
 	public void setPrevious(DNode<E> p) {previous=p;}
 	public void setNext(DNode<E> q) {next=q;}
+	//이게 추가됨...
+	//이게 또 추가됨 ...
 
 }
